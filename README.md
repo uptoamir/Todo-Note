@@ -5,13 +5,19 @@ Register and enjoy!
   --node v16.14.2
 
 Login
-[![Screenshot-1082.png](https://i.postimg.cc/ncZQwnNM/Screenshot-1082.png)](https://postimg.cc/hhyjXRDq)
+<div align="center">
+    <img src="./Login.png" width="800px"</img> 
+</div>
 
 Home
-[![Screenshot-1080.png](https://i.postimg.cc/fTk9m8dR/Screenshot-1080.png)](https://postimg.cc/YhK0wf85)
+<div align="center">
+    <img src="./Home.png" width="800px"</img> 
+</div>
 
 Profile
-[![Screenshot-1081.png](https://i.postimg.cc/xjmK4xCp/Screenshot-1081.png)](https://postimg.cc/Jt1DyQjj)
+<div align="center">
+    <img src="./Profile.png" width="800px"</img> 
+</div>
 
 # Start
 ```
