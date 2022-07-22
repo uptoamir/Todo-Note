@@ -5,6 +5,8 @@ Register and enjoy!
 
 [![Screenshot-1079.png](https://i.postimg.cc/9XLmPVPG/Screenshot-1079.png)](https://postimg.cc/yWSCBMbd)
 
+[![Screenshot-1080.png](https://i.postimg.cc/fTk9m8dR/Screenshot-1080.png)](https://postimg.cc/YhK0wf85)
+
 # Start
 ```
 yarn install
