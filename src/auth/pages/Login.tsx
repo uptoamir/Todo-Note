@@ -69,7 +69,7 @@ const Login = () => {
       <Grid item xs={12} sm={8} md={5} component={Paper} square>
         <BoxedLayout>
           <Typography component="h1" variant="h5">
-            title
+            Meetino
           </Typography>
           <Box
             component="form"
