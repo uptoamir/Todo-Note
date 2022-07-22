@@ -1,0 +1,10 @@
+#container span {
+  display: inline-block;
+  width: 100%;
+}
+
+#container h1 {
+  display: inline-block;
+  width: 100%;
+  word-break: break-all;
+}
