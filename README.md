@@ -21,6 +21,7 @@ Profile
 
 # Start
 ```
+#this is in developement mode, so log is not clear
 yarn install
 
 #then after installation, go to MakeTodoNote folder and run
