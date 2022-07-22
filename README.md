@@ -23,6 +23,6 @@ Profile
 ```
 yarn install
 
-#then after installation
+#then after installation, go to MakeTodoNote folder and run
 
 yarn start
